@@ -1,6 +1,7 @@
 # CROWDFUNDING ANALYSIS: Hidden Trends 
 ### file Crowdfunding_Analysis.XLSM containing tabs:
-
+Charts: 
+[alt text](https://github.com/ykrasnikov/Crowdfunding_Analysis/blob/main/Images/charts_png.png "crowdfunding analysis"
 1. Category Stats Pivot - Outcome vs project category 
 2. SubCategory Stats Pivot - Outcome vs project sub-category 
 3. Outcome Based on Launch Date 
@@ -15,4 +16,4 @@ Variance vs Standard Deviation
 
 6.   Sheet1 - original data with formating and currency conversion  
 7.   Currency - Table with currency exchange  
-### Word file with Answers
+### Analysis_answers.docx - is a Word file with Answers
